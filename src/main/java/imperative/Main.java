@@ -13,6 +13,8 @@ public class Main {
             new Person("Denver", MALE)
         );
 
+        // imperative approach
+
         List<Person> female = new ArrayList<>();
 
         for(Person person : people) {
